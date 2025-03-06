@@ -13,7 +13,7 @@ This project is a reverse-engineered digital multimeter (DMM) built using an **A
 
 ## Schematic
 
-<img src="images/dmm/tinkercad.png" alt="Tinkercad Diagram">
+<img src="../images/dmm/tinkercad.png" alt="Tinkercad Diagram">
 
 ## Pinout
 

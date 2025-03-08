@@ -2,4 +2,4 @@
 
 | Folder               | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
-| [Digital Multimeter](./DMM)  | Contains the Arduino code for the reverse-engineered Digital Multimeter (DMM) from Purdue ECE39595. This includes voltmeter, ammeter, ohmmeter, and continuity tester functionalities. Ohmmeter lacks accurate variable ranges. |
+| [Digital Multimeter](./DMM)  | Arduino code for the reverse-engineered Digital Multimeter (DMM) in Purdue ECE39595. Includes voltmeter, ammeter, ohmmeter, and continuity tester functionalities. Ohmmeter lacks accurate variable ranges. |

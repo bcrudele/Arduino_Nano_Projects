@@ -1,8 +1,6 @@
 # Reverse Engineered Digital Multimeter (DMM) using Arduino Nano
 
 This project is a reverse-engineered digital multimeter (DMM) built using an **Arduino Nano** and a **LiquidCrystal_I2C** display. The multimeter can be used in four modes: **Voltmeter**, **Ammeter**, **Ohmmeter**, and **Continuity Tester**. A push button is used to toggle between these modes, and the results are displayed on the LCD.
-<a href="https://www.overleaf.com/read/bmqmjphvwvmj#7c8530">Purdue ECE39595: Reverse Engineering - Full Journal Report</a>
-
 
 ## Features
 
